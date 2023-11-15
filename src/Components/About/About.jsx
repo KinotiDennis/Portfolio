@@ -22,7 +22,7 @@ export const About = () => {
         <p className="about__desc" data-aos="fade-right">
           Passionate and creative Full Stack Developer having proficiency in
           MERN Stack. Attired with a variety of tools & technologies and keen to
-          learn new one. Worked on a few projects since last 3 years and delivered
+          learn new ones. Been working on a few projects in the last 3 years and delivered
           4+ projects till now.
         </p>
         <div className="about__contact center">

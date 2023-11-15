@@ -64,7 +64,7 @@ export const Timeline = () => {
             </h4>
             <p data-aos="fade-right">
               I got part of my pre-school education from Consolata Primary School and attained my 
-              Kenya Certificate of Primary Education(K.C.P.E) from the school.
+              Kenya Certificate of Primary Education(K.C.P.E).
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -100,7 +100,7 @@ export const Timeline = () => {
             </h4>
             <p data-aos="fade-right">
               I joined Kagumo High School for my High School education where I was able to attain my
-              Kenya Certificate of secondary Education(K.C.S.E) from the Institution.
+              Kenya Certificate of secondary Education(K.C.S.E).
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -136,7 +136,7 @@ export const Timeline = () => {
             </h4>
             <p data-aos="fade-right">
               I was able to join Jomo Kenyatta University of Agriculture and Technology for my undergraduate 
-              studies pursing a Bsc Course in Computer Science.
+              studies pursing Bsc. Computer Science.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -208,7 +208,7 @@ export const Timeline = () => {
             </h4>
             <p data-aos="fade-right">
               I was accepted at Huawei Technologies Kenya where I interned for 5 months as part of my external 
-              attachment required by the institution.
+              attachment required by the University.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement

@@ -22,18 +22,20 @@ export const Introduction = () => {
             <div className="introduction_datacontainer">
               <h4>
                 Hi Everyone, My name is{" "}
-                <span className="different">Kinoti Dennis </span> and I am from{" "}
+                <span className="different">Kinoti Dennis Munene </span> and I am from{" "}
                 <span className="different">
                   {" "}
-                  Juja, Kiambu (Kenya)
+                  Kithoka, Meru (Kenya)
                 </span>
-                . I have completed ny undergraduate degree in (Bsc. Computer Science)
+                . 
+                I have completed my undergraduate degree in (Bsc. Computer Science)
                 from{" "}
                 <span className="different">
-                  Jomo Kenyatta UNiversity of Agriculture and Technology, Juja (Kenya)
+                  Jomo Kenyatta University of Agriculture and Technology, Juja (Kenya)
                 </span>
-                . Then I started a full stack development course by{" "}
-                <span className="different">Moringa School</span> a type
+                . 
+                I have started a full stack development course offered by{" "}
+                <span className="different">Moringa School</span> which is classified as a type
                 coding school.
               </h4>
               <h4>Terms That can describe me apart form Coding :</h4>
@@ -53,7 +55,13 @@ export const Introduction = () => {
                 <span className="icons">
                   <ExitToAppIcon />
                 </span>
-                Gamer{" "}
+                Conspiracy Theorist{" "}
+              </h4>
+              <h4 className="different">
+                <span className="icons">
+                  <ExitToAppIcon />
+                </span>
+                Athletic{" "}
               </h4>
             </div>
           </div>
