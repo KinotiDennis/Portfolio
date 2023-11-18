@@ -38,7 +38,7 @@ export const Introduction = () => {
                 <span className="different">Moringa School</span> which is classified as a type
                 coding school.
               </h4>
-              <h4>Terms That can describe me apart form Coding :</h4>
+              <h4>Terms that can describe me apart form Coding :</h4>
               <h4 className="different">
                 <span className="icons">
                   <ExitToAppIcon />

@@ -10,11 +10,11 @@ export const Footer = () => {
       <div className={"section " + themename}>
         <a href="/" rel="noreferrer" target="_blank">
           <div className="footerBox">
-            <h3 className="footer">
+            <h5 className="footer">
               Copyright &copy;{" "}
               <span style={{ color: `red`, background: `transparent` }}></span>{" "}
               2023 Kinoti
-            </h3>
+            </h5>
           </div>
         </a>
       </div>

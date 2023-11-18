@@ -20,8 +20,7 @@ export const About = () => {
         </h1>I am Batman
         <Type />
         <p className="about__desc" data-aos="fade-right">
-          Passionate and creative Full Stack Developer having proficiency in
-          MERN Stack. Attired with a variety of tools & technologies and keen to
+          Passionate and creative Full Stack Developer. Attired with a variety of tools & technologies and keen to
           learn new ones. Been working on a few projects in the last 3 years and delivered
           4+ projects till now.
         </p>

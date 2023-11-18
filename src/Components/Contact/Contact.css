@@ -1,8 +1,9 @@
 .contactcontainer {
   display: flex;
   justify-content: space-between;
-  padding-top: 2em;
-  width: 450px;
+  align-items: center;
+  padding-top: 1em;
+  width: 200px;
   border-radius: 20px;
   background-color: transparent;
   margin: 10px;
@@ -12,10 +13,9 @@
 }
 
 .contactcontainer svg {
-  font-size: 3em;
+  font-size: 2.5em;
   transition: all 0.5s ease-in-out 0s;
   color: var(--clr-primary);
-  border: 3px solid var(--clr-primary);
   padding: 5px;
   border-radius: 20%;
 }
@@ -63,7 +63,7 @@
   border-radius: 20px;
   background-color: transparent;
   margin: auto;
-  width: 500px;
+  width: 300px;
   display: flex;
   justify-content: space-between;
 }
@@ -75,7 +75,7 @@
     rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
 } */
 .contactMain{
-  width: 90%;
+  width: 40%;
   display: grid;
   grid-template-columns: repeat(1, 1fr);
   margin: auto;
@@ -85,7 +85,7 @@
     font-size: 2em;
   }
   .contactcontainer{
-    width: 100%;
+    width: 200px;
   }
   .mailNumber{
     width: 100%;
